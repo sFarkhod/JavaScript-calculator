@@ -1,7 +1,7 @@
 body {
-    background: #de6161;  
-    background: -webkit-linear-gradient(to top, #2657eb, #de6161);  
-    background: linear-gradient(to right, #2657eb, #de6161); 
+    background: #FEAC5E; 
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); 
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  
     overflow: hidden;
 }
 
@@ -55,7 +55,7 @@ h1 {
 .select {
     margin-left: 5px;
     border: 2px solid #b13636;
-    background-color: lightblue;
+    /* background-color: lightblue; */
 	border-radius: 4px; 
 	font-family: inherit;
 	font-size: 14px;
